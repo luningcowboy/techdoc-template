@@ -1,0 +1,16 @@
+{
+    "plugins": [
+        "-lunr",
+        "-search",
+        "search-pro",
+        "expandable-chapters",
+        "splitter",
+        "prism",
+        "mermaid-gb3",
+        "todo",
+        "code",
+        "advanced-emoji",
+        "flexible-alerts",
+        "ancre-navigation"
+    ]
+}
